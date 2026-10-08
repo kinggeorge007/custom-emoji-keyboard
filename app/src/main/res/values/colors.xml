@@ -1,0 +1,7 @@
+<resources>
+    <color name="blue">#1877F2</color>
+    <color name="surface">#F5F7FA</color>
+    <color name="key">#FFFFFF</color>
+    <color name="text">#111827</color>
+    <color name="muted">#6B7280</color>
+</resources>
